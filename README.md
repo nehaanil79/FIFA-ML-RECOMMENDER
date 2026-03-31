@@ -25,3 +25,7 @@ Output: Every player in the database is assigned a Cluster_ID (Archetype). This 
 Language: Python
 Libraries: Pandas, NumPy, Scikit-learn (for K-Means and distance metrics)
 Interface: ipywidgets (for the interactive player selection input), IPython.
+
+How to View & Run:
+For Static Preview: View the FIFA_ML_Reccomender.ipynb file in this repository.
+For Live Interactive Version: Click the button below to run the agent directly in your browser via Google Colab.
